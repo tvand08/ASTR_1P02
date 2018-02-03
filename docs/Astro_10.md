@@ -79,3 +79,5 @@ How
 - Using the third kepler's law astronomers have determined the mass of the central object to be 4 Million M<sub>0</sub>
 - Something that massive can only be a black hole.
 - It is found that other galaxies also have supermassive black holes at their centers
+
+[Back to Main Page](./)

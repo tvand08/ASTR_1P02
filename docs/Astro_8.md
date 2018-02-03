@@ -137,3 +137,5 @@
 - The star enters the final red giant stage.
 - Thermal pressure created by the energy released in the He-fusin shell pushes out the top layers and they cool down as their distance from the energy producing region increases.
 - The color changes from yellow to red
+
+[Back to Main Page](./)

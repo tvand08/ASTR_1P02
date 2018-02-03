@@ -117,3 +117,5 @@
   - Photon Energy= Constant/λ
     - λ= wavelength
 - The Gravitational redshift is different from the one caused by the doppler effect when the source is moving away from the observer
+
+[Back to Main Page](./)
