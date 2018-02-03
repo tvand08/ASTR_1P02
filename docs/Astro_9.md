@@ -57,7 +57,7 @@
 - Because of very high mass the helium core is compressed and heated right away and fusion of <sup>4</sup>He into <sup>12</sup>C and <sup>16</sup> proceeds without a pause (no first red giant stage).
 - nucleosynthesis: fusion of heavier nuclei from the lighter ones.
 
-### Type II supernova
+## Type II supernova
 - Each fusion reaction releases less energy than the previous one and the rate at which the nuclear fuel is used increases with the mass of the nuclei that make up the fuel.
 - In all fusion reactions the energy is release(exothermic)
 - To fuse nuclei heavier than iron the energy must be supplied(endo thermic)
@@ -65,6 +65,7 @@
 - Therefore, once the iron core is formed there are no further fusion reactions in the iron core.
 - what prevents Gravitational collapse of a very dense iron core is the electron degeneracy pressure.
 - The mass of the iron core increases as more and more iron is produced in the Si-fusing shell. Eventually the Chandrasekhar limit is reached for degenerate iron core and it collapses in a millisecond as electrons combine with protons to form neutrons and neutrinos.
+
 ### Neutron Star
 - their density is the same as the density of atomic nucleus (10<sup>11</sup>kg/cm<sup>3</sup>). Neutrons also obey the Pauli principle and it is the degeneracy pressure of neutrons that prevents the gravitational collapse of a neutron star.
 - Just after it was formed the neutron core is squeezed tightly and then it rebounds. The infalling material from the edge of the iron core and surrounding shells runs into the rebounding core.
@@ -72,7 +73,7 @@
 - When it formed the neutron core is very hot (temperature =  100 billion k)
 - at these high temps a large number of energetic thermal neutrinos is produced and their push continues the work of the shock wave and the star blows up in __Type II__ Supernova.
 - Most of the energy released in type II supernova is carried away by neutrinos. only 0.1% of the release energy is carried by visible light.
-[More Info](https://www.space.com/22180-neutron-stars.html)
+- [More Info](https://www.space.com/22180-neutron-stars.html)
 - What is left after typ II supernova?
   1. Supernova Remnant
     - expanding and glowing gas effected by the explosion
