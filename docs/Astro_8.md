@@ -1,6 +1,6 @@
 # Chapter 8
 
-## Star Formation
+# Star Formation and Evolution
 - To find out about the start formation we need to look at the neighbourhoods of young stars.
 - H-R diagram measure luminosity(energy output) and surface temperature(spectral Class)
 `O-B-A-F-G-K-M`
