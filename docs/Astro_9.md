@@ -42,6 +42,13 @@
 - These photons excite the electrons in the atoms of planetary nebula into higher energy states.
 - As they drop back into lower energy states photons are emitted. That is how planetary nebula produce light.
 
+## The life story of a high mass star
+- Because of the high mass all stages last shorter period of time.
+- Protostar stage, main sequence lifetime...
+- The star contracts quickly because of the high mass
+- Because of very high mass the helium core is compressed and heated right away and fusion of <sup>4</sup>He into <sup>12</sup>C and <sup>16</sup> proceeds without a pause (no first red giant stage).
+- nucleosynthesis: fusion of heavier nuclei from the lighter ones.
+
 ## Type Ia Supernova:
 - strong gravity near a dense with dwarf attracts some of the material from companion stars and the mass of the white dwarf increases.
 - it compresses and heats up. Once its mass gets close to the __Chandrasekhar Limit__, the temperature is so high that there are runaway fusion reactions. So much energy is release that the entire system is disrupted in a gigantic explosion (Type Ia supernova).
@@ -49,13 +56,6 @@
 - Since they all occur via the same mechanism  and we know how much explosive there is (Chandrasevchar Limiting mass) They all have the same luminosity L.
 - B=L/(4·PI·d<sup>2</sup>)
 - To find their distance d. This method is used to find the distances of the most distant galaxies.
-
-## The life story of a high mass star
-- Because of the high mass all stages last shorter period of time.
-- Protostar stage, main sequence lifetime...
-- The star contracts quickly because of the high mass
-- Because of very high mass the helium core is compressed and heated right away and fusion of <sup>4</sup>He into <sup>12</sup>C and <sup>16</sup> proceeds without a pause (no first red giant stage).
-- nucleosynthesis: fusion of heavier nuclei from the lighter ones.
 
 ## Type II supernova
 - Each fusion reaction releases less energy than the previous one and the rate at which the nuclear fuel is used increases with the mass of the nuclei that make up the fuel.
