@@ -27,7 +27,7 @@ Stefan-Boltzmann law: L=C*R<sup>2</sup>T<sup>4</sup>
 - Disk contains: stars, star clusters, gas and dust
 - Star clusters:
   - Associations:
-    - Clusters of 10-100 young, hot (O | B Class) Luminous sagitarius
+    - Clusters of 10-100 young, hot (O or B Class) Luminous sagitarius
   - Open Clusters:
     - Clusters of 100-1000 stars, also hot and luminous
 - Halo: Stars (cooler lower main sequence stars), globular clusters __NO__ Gas or dust
