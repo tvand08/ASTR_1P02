@@ -10,7 +10,7 @@
 - Their name (planetary) comes from the fact that when viewed through a small telescope they appear as blue-green, just like the planets uranus and neptune.
 - But they have nothing to do with planets or planet formation
 
-### White dwarfs
+## White dwarfs
 - Examples of white dwarfs:
   - Sirus b
 - White dwarfs are very dense:
@@ -21,12 +21,12 @@
   - Negative electrions which are in __Degenerate State__
 - Quantam Mechangics: Electrons obey __Pauli Principle__- no two electrons can be in the same state, including spin.
 
-### Degenerate Matter
+## Degenerate Matter
 - Degenerate matter has unusual properties:
   1. The pressure does not depend on temperature, but only on density (increases with density)
   2. Larger mass has smaller radius/size
 
-### Chandrasekhar limit:
+## Chandrasekhar limit:
 - The maximum mass of degenerate object
 - Maximum mass of degenerate body for white dwarf is 1.4M<sub>0</sub>
 - The range of the observed radii is 0.008R<sub>0</sub> - 0.02R<sub>0</sub>
@@ -91,3 +91,29 @@
     - Angular momentum = MRV
     - = Mass*Average distance from rotational axis * rotational speed
   - The spin rate of a neutron star decreases over time as it loses the rotational energy via radiation
+
+## Black Holes
+- If the mass of the collapsed core is > 3M<sub>0</sub> the degeneracy pressure of neutrons cannot support it and it collapses into a single point - a singularity in spacetime.
+- The resulting object is called a black hole.
+- Escape Velocity
+  - v<sub>esc</sub><sup>2</sup> = GM/R
+    - G: Gravitational constant
+    - M: Given Mass
+    - R: Given Radius
+- If v<sub>esc</sub><sup>2</sup> > C(300,000 km/s), then nothing, including light, can escape the gravity of the body.
+- __Schwarzschild Radius__ R<sub>s</sub>:
+  - A distance from the body within which the escape velocity is greater than the speed of light.
+  - R<sub>s</sub> = 3M
+    - M in terms of M<sub>0</sub>
+- What is the observational evidence for black holes?
+  - Look for a binary system (two entities) of a normal star and an invisible companion with a mass of at least 3M<sub>0</sub> which is a strong source of x-rays
+  - First observatio made by tom bolton in 1971 using 1.9nm reflector telescope at the david dunlop observatory.
+  - The normal star was Cygnus and the black hole was named cygnusXI.
+- To describe vicinity of blcck holes we need Einstein's General Theory of Relativity(1915):
+  - Mass or Energy bends space and other object move in that space along paths of shortest distance(geodesics)
+
+## Gravitational Redshift
+- As a photon escapes the gravitational pull by mass M it loses energy and the wavelength of light increases:
+  - Photon Energy= Constant/λ
+    - λ= wavelength
+- The Gravitational redshift is different from the one caused by the doppler effect when the source is moving away from the observer
