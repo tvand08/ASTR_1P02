@@ -66,7 +66,7 @@
 - what prevents Gravitational collapse of a very dense iron core is the electron degeneracy pressure.
 - The mass of the iron core increases as more and more iron is produced in the Si-fusing shell. Eventually the Chandrasekhar limit is reached for degenerate iron core and it collapses in a millisecond as electrons combine with protons to form neutrons and neutrinos.
 
-### Neutron Star
+## Neutron Star
 - their density is the same as the density of atomic nucleus (10<sup>11</sup>kg/cm<sup>3</sup>). Neutrons also obey the Pauli principle and it is the degeneracy pressure of neutrons that prevents the gravitational collapse of a neutron star.
 - Just after it was formed the neutron core is squeezed tightly and then it rebounds. The infalling material from the edge of the iron core and surrounding shells runs into the rebounding core.
 - As a result the shock wave is created - it moves out and starts to rip the star apart. It stalls as the energy of the shock wave is absorbed by the top layers.
