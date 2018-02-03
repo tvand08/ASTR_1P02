@@ -50,7 +50,7 @@ Bulge: the motions of stars are similar to those in the halo.
 - The rotation curves of stars in the galaxies are very different.
 - They were first measured by __Vera Rubin__ in 1970s
 - However the Observed rotation did not match the Keplerian rotation curve.
-- If one assumes that the Newton's Laws are working at these large distances, there must be additional mass that we cannot see 
+- If one assumes that the Newton's Laws are working at these large distances, there must be additional mass that we cannot see
 
 ## Dark Matter
 - There is mass in the galaxy which does not emit light- Dark Matter.
@@ -59,3 +59,23 @@ Bulge: the motions of stars are similar to those in the halo.
 - He observed the motions of galaxies in a cluster of galaxies called __Coma Cluster__:
 - The Galaxies in the cluster are bound by the force of gravitational attraction.
 - Luminous mass was only 1/400 of the total mass needed to explain the orbital speeds of galaxies in the cluster.
+- What is dark matter?
+- MACHO(Massice astrophysical compact halo objects): Black Holes, Neutron stars, old white dwarfs, brown dwarfs.
+How
+- Calculations == > reuslt: the MACHO Can account for at mose 19% of the total mass of dark matter.
+- __Composition of the Universe:__
+  - 5% ordinary Matter
+  - 27% dark Matter
+  - 68% dark energy
+
+## Spiral arms of the Milky way
+- They are the waves of compression of the material in the disk and they move around more slowly than the individual stars.
+- Cloud of gas and dust enters the arm and gets compressed (star formation is triggered)
+- Hot and luminous stars do not live long and spend lifetime in the arm.
+- lower mass stars live longer and contine trip out of arm
+- The Center of the milky way is in the direction of constellation sagitarius.
+- Galactic center is only observable at x-ray and radia wavelenghts
+- At the very center is Sagitarrius A and at tis core is a very intense source of radio waves known as SGRA*
+- Using the third kepler's law astronomers have determined the mass of the central object to be 4 Million M<sub>0</sub>
+- Something that massive can only be a black hole.
+- It is found that other galaxies also have supermassive black holes at their centers
