@@ -5,4 +5,5 @@
 - [Visit Webpage](http://www.physics.brocku.ca/Courses/1P02_DAgostino/outline.php)
 
 ## Studying material
-- [Chapter 8](./Astro_8)
+- [Chapter 8: Star Formation](./Astro_8)
+- [Chapter 9: Stellar Remnants](./Astro_9)
