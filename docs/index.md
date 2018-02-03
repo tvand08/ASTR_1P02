@@ -7,3 +7,4 @@
 ## Studying material
 - [Chapter 8: Star Formation](./Astro_8)
 - [Chapter 9: Stellar Remnants](./Astro_9)
+- [Chapter 10: The Milky Way Galaxy](./Astro_10)
