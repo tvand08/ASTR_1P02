@@ -33,7 +33,7 @@
 - These Galaxies are a chaotic mix of gas and dust with no obvious nucleus and spiral arms
 
 - Elliptical Galaxies account for about 1/3 of the galaxies we observe
-- Spiral galaxies make up the majorit of brighter galaxies that we observe.
+- Spiral galaxies make up the majority of brighter galaxies that we observe.
 - The Irregular galaxies are small and not very luminous and are harder to observe at large distances.
 - Irregular galaxies may be the most common type of galaxy
 
@@ -73,4 +73,15 @@
     - Importantly, their luminosity is always the same because they go off when the mas of a white dwarf in a binary system gets close to the Chandrasekhar limit of 1.4M<sub>0</sub> (There is always the same amount of 'explosive')
     - B = L/4(Pi d<sup>2</sup>)
       - B: Measure
-      - L: 
+      - L: Luminosity from nearby Type Ia supernovae
+      - d: distance
+
+## Distribution of Galaxies
+
+- Occur in clusters
+
+- Rich Galaxy Clusters
+
+  - Contain more than 1000 Galaxies
+- Poor galaxy clusters
+  - Contain less than 1000 galaxies
