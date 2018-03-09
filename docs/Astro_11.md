@@ -55,7 +55,7 @@
     - 1915: The spectra of 11/15 galaxies were redshifted
     - 1917: The spectra of 17/21 galaxies were redshifted
   - Except for the closer galaxies, the spectra were redshifted.
-- Hubble used Slipher's data on regression velocites of galaxies and he meausre their distance using Cepheid variables.
+- Hubble used Slipher's data on regression velocites of galaxies and he measured their distance using Cepheid variables.
 - Hubble noticed that there is a correlation between the recession velocity and the distance:
 - The current balue of Hubble's constant is `H=70 (km/s)/Mpc` where 1Mpc = 10<sup>6</sup>parsecs and 1 parsec = 3.26ly
 - Hubbles law reveals that the universe is expanding
@@ -88,3 +88,14 @@
 - Collision/interaction between the galaxies is much more likely than a star-star collision
 - Typical galaxy distance (I assume distance between galaxies) is about 20 times their diameters.
 - Typical star-star distanceis about 10 million times the diameter of a star.
+
+## Consequences of galaxy collisions/ interactions
+
+- One galaxy can strip away gas and dust fromm another
+- Gravitational distortion of galaxies as they pass near each other
+  - `Whirlpool galaxy`
+- Gas compression and the burst of star formation
+  - `Cartwheel galaxy`
+- Galaxy mergers
+- Triggering of the spiral density waves (spiral arms) in spiral galaxies
+- One would expect that the collsions between the galaxies are more frequent in the rich galaxy clusters than in the poor clusters.
