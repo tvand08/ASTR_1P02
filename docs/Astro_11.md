@@ -120,4 +120,12 @@
 
 ### Radio galaxies
 
-- 
+- Elliptical galaxies which emit intense radio waves, from their cores and from regions outside the galaxy (Radio lobes)
+
+### Quasars (quasistellar radio sources)
+
+- Stars which are also sources of intense radio waves (normally, star do not emit much energy at radio wavelengths)
+- A galaxy with an active galactic nuclei:
+  - Supermassive black hole in center (several million M0 or Billion M0)
+  - Jets of particles moving near the speed of light
+  - Accretion disk (gas and dust, stars)
