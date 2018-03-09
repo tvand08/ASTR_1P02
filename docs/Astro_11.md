@@ -114,4 +114,10 @@
 
 ### Seyfert galaxies (after Carl Seyfert)
 
-- Spiral galaxies and the intensity of their radiation varies on time scale of minutes
+- These are Spiral galaxies and the intensity of their radiation varies on time scale of minutes
+- From this we can conclude that the size of the active region responsible for radiation cannot be bigger than a few light-minutes(~ 1 AU)
+> Why is the time over which the intensity of a source varies related to its maximum size? Because two lightbulbs are brighter than one.
+
+### Radio galaxies
+
+- 
