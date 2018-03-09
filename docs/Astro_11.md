@@ -26,4 +26,35 @@
   - Between S<sub>a</sub> according to the size of the nucleus, amount of gas and dust, and the number of hot bright stars.
   - 2/3 of spiral galaxies are so called barred spiral galaxies (SB)
   - They are divided into SBa, SBb and SBc according to the same criteria used for ordinary spirals.
-  
+
+### Irregular Galaxies (Irr)
+
+- These Galaxies are a chaotic mix of gas and dust with no obvious nucleus and spiral arms
+
+- Elliptical Galaxies account for about 1/3 of the galaxies we observe
+- Spiral galaxies make up the majorit of brighter galaxies that we observe.
+- The Irregular galaxies are small and not very luminous and are harder to observe at large distances.
+- Irregular galaxies may be the most common type of galaxy
+
+## Measuring the Distance to Galaxies
+
+- Even those athat are closest to us are distant enough that the method of stellar parallax would fail.
+- (Large magellanic cloud = 170,000 ly away)
+- For galaxies that are not too distant, astronomers use the method of Cepheid variables, using the period-luminosity relation for such stars.
+  - This method works for distances up to 100 million ly
+- For distances beyond 100 million ly use the method of Globular clusters
+
+## Edwin Hubble
+
+- 1929 discovered relationship between the distance of a galaxy and it recession velocity.
+- Used the data on recession velocities of galaxies obtained by Vesto Slipher.
+  - Slipher measured the shift of wavelengths in the spectra of galaxies and assuming that the shift results from the doppler effect he was able to deduce their speed relative to the milky way.
+  - Sliphers Measurements:
+    - 1913: Light from Andromeda is blueshifted
+    - 1915: The spectra of 11/15 galaxies were redshifted
+    - 1917: The spectra of 17/21 galaxies were redshifted
+  - Except for the closer galaxies, the spectra were redshifted.
+- Hubble used Slipher's data on regression velocites of galaxies and he meausre their distance using Cepheid variables.
+- Hubble noticed that there is a correlation between the recession velocity and the distance:
+- The current balue of Hubble's constant is `H=70 (km/s)/Mpc` where 1Mpc = 10<sup>6</sup>parsecs and 1 parsec = 3.26ly
+- Hubbles law reveals that the universe is expanding
