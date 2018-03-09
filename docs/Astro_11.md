@@ -24,8 +24,9 @@
   - Appear blue in color.
 - S<sub>b</sub> Galaxies:
   - Between S<sub>a</sub> according to the size of the nucleus, amount of gas and dust, and the number of hot bright stars.
-  - 2/3 of spiral galaxies are so called barred spiral galaxies (SB)
-  - They are divided into SBa, SBb and SBc according to the same criteria used for ordinary spirals.
+
+- 2/3 of spiral galaxies are so called barred spiral galaxies (SB)
+- They are divided into SBa, SBb and SBc according to the same criteria used for ordinary spirals.
 
 ### Irregular Galaxies (Irr)
 
@@ -58,3 +59,18 @@
 - Hubble noticed that there is a correlation between the recession velocity and the distance:
 - The current balue of Hubble's constant is `H=70 (km/s)/Mpc` where 1Mpc = 10<sup>6</sup>parsecs and 1 parsec = 3.26ly
 - Hubbles law reveals that the universe is expanding
+- Hubbles law: V = H*d
+  - V: (Recession Velocity)
+  - H: (Hubble's Constant)
+  - d: (Distance of a galaxy)
+- We can use hubble's law to find the distance to a galaxy.
+- Hubble's law is consistent with an expanding universe
+- In this expansion of space there is no single center of expansion.
+- This expansion of space causes so called cosmological redshift:
+  - The stretching of space causes the stretching of the wave, ie an increased wavelength(redshift)
+  - The distances of the most distant galaxies in the universe are determined using type Ia supernovae (no hydrogend spectral lines)
+    - They are very bright and could be observed from great distances
+    - Importantly, their luminosity is always the same because they go off when the mas of a white dwarf in a binary system gets close to the Chandrasekhar limit of 1.4M<sub>0</sub> (There is always the same amount of 'explosive')
+    - B = L/4(Pi d<sup>2</sup>)
+      - B: Measure
+      - L: 
