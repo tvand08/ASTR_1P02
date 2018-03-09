@@ -57,7 +57,7 @@
   - Except for the closer galaxies, the spectra were redshifted.
 - Hubble used Slipher's data on regression velocites of galaxies and he measured their distance using Cepheid variables.
 - Hubble noticed that there is a correlation between the recession velocity and the distance:
-- The current balue of Hubble's constant is `H=70 (km/s)/Mpc` where 1Mpc = 10<sup>6</sup>parsecs and 1 parsec = 3.26ly
+- The current value of Hubble's constant is `H=70 (km/s)/Mpc` where 1Mpc = 10<sup>6</sup>parsecs and 1 parsec = 3.26ly
 - Hubbles law reveals that the universe is expanding
 - Hubbles law: V = H*d
   - V: (Recession Velocity)
@@ -99,3 +99,19 @@
 - Galaxy mergers
 - Triggering of the spiral density waves (spiral arms) in spiral galaxies
 - One would expect that the collsions between the galaxies are more frequent in the rich galaxy clusters than in the poor clusters.
+- These collisionos result in star formations forcing the galaxy to use up its gas and dust.
+- This conclusion is in agreement with the observation that ellipticals and Sa spirals are maore common in the rich galaxy clusters.
+
+## Clusters
+
+- Clusters of galaxies form even bigger structures (Superclusters)
+  - Clusters of clusters
+- Local group belongs to local supercluster.
+- Supercluster form filaments seperated by voids:
+- a small percentage of galaxies are so-called active galaxies - they emit a large amount of energy via radiation from the small volume in their nuclei (Active Galactic Nuclei[AGN])
+
+## Galaxy types
+
+### Seyfert galaxies (after Carl Seyfert)
+
+- Spiral galaxies and the intensity of their radiation varies on time scale of minutes
