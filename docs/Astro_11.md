@@ -85,3 +85,6 @@
   - Contain more than 1000 Galaxies
 - Poor galaxy clusters
   - Contain less than 1000 galaxies
+- Collision/interaction between the galaxies is much more likely than a star-star collision
+- Typical galaxy distance (I assume distance between galaxies) is about 20 times their diameters.
+- Typical star-star distanceis about 10 million times the diameter of a star.
