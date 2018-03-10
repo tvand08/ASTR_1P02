@@ -129,3 +129,5 @@
   - Supermassive black hole in center (several million M0 or Billion M0)
   - Jets of particles moving near the speed of light
   - Accretion disk (gas and dust, stars)
+
+[Back to Main Page](./)

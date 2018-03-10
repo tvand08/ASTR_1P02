@@ -26,5 +26,39 @@
 
 ## Fate of the universe
 
-- The answer depends on the density of matter/energy in the universe characterized by the parameter 'omega'
-- Omega = Density/Critical density'
+- The answer depends on the density of matter/energy in the universe characterized by the parameter `Ω`
+- `Ω` = Density/Critical density
+- `Ω > 1`: Recollapsing universe
+  - It ends in **The Big Crunch**
+  - The universe has a positive curvature
+- `Ω < 1:`: Coasting universe
+  - Keeps on expanding at a constant rate
+  - Has a negative curvature
+- `Ω = 1`: Critical universe
+  - Keeps on expanding but the expansion rate will reduce to zero in infinite future
+  - Has zero curvature
+- Observation (1998):
+  - 4-5 billion years ago the expansion rate of the universe started to increase
+  - The expansion of the universe accelerated
+  - Explained with the comsological constant Λ
+
+## Cosmolical Constant Λ
+
+- Introduced to prevent the universe from collapsoing under its own gravity.
+- Gravity decreases with distance
+- Λ is a property of spacetime that acts over all distances
+- 4-5 billion years ago, when the seperation between the galaxies became large enough, Λ started to dominate over gravitational attraction and the expansion started to accelerate.
+- What is the physical origin of Λ?
+  - Unknown
+  - We call it **Dark energy**
+  - It has to have a positive energy density but negative pressure
+
+## Total Ω
+
+- The total Ω of the universe is 
+  - Ω = Ω<sub>M</sub> + Ω<sub>Λ</sub> = 1
+  - Ω<sub>M</sub>: Contribution from ordinary matter and dark matter ~ 1
+  - Ω<sub>Λ</sub>: Contribution from dark energy ~ 0.7
+- Hence, the universe is flat and currenly expanding at an accelerated rate.
+
+[Back to Main Page](./)
