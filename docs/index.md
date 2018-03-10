@@ -11,3 +11,4 @@
 - [Chapter 9: Stellar Remnants](./Astro_9)
 - [Chapter 10: The Milky Way Galaxy](./Astro_10)
 - [Chapter 11: Galaxies](./Astro_11)
+- [Chapter 12: Cosmology](./Astro_12)
