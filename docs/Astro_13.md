@@ -93,14 +93,55 @@
 - Density 
     - `Mass/Volume`
         - Volume from Diameter D
+
 |Planet|Mass (in units of Earth Mass)| Density (in g/cm<sup>3</sup>|
 |---------|:------------:|:--:|
 |Mercury|0.055|5.43|
 |Venus|0.815|5.24|
-|Earth|1(6*10<sup>24</sup>kg|5.52|
-||||
-||||
-||||
-||||
-||||
-||||
+|Earth|1 (6*10<sup>24</sup>kg)|5.52|
+|Mars|0.107|3.92|
+|Jupiter|318|1.32|
+|Saturn|95.1|0.70|
+|Uranus|14.5|1.25|
+|Neptune|17.2|1.76|
+|(Sun)|(333 000)|(1.4)|
+
+- Terrestrial planets- Small and dense
+- Jovian planets- large and lower density
+
+## Formation of the Solar System:
+- Collapsing Nebula Scenario
+    - Supposedly began 4.6 Billion Years ago in a wispy cloud of gas and dust
+    - This cloud was a small part of a much bigger cloud
+    - at some point, part of the cloud collapsed in on itself- possibly because the shockwabe of a nearby supernova explosion caused it to compress
+    - the result: a flat spinning disk of dust and gas
+    - Nuclear fusion occurs when hydrogen atoms fuse into helium
+    - when enough material collected at this disk's center, nuclear fusion began. Our sun was born.
+    - The sun gobbled up 99.8% of all the material
+    - The material left behing by the sun clumped together into bigger and bigger peices
+    - These clumps became planets, dwarf planets, asteroids, comets, and moons.
+    - Only rocky things could survive close to the sun, so gaseous and icy material collected further away.
+    - Comets and asteroids are left over remains of the solar system's formation.
+- Frost line
+    - inside the frost line: temperature > -120<sup>o</sup>c
+    - outside the frost line: temperature < -120<sup>o</sup>c
+- Condensation temperature is the temperature at which a substance solidifies. 
+    - It increases with pressure.
+    - In space pressure is 0
+- Condensation Sequence
+
+    |Material| Relative Abundance| Condensation Temperature|
+    |-|:-:|:-:|
+    |Iron, Nickel, Aluminium|0.2%|1000-1600K|
+    |Various Minerals|0.4%|500-1300K|
+    |Water, Methane, Ammonia|1.4%|<150k = -120<sup>o</sup>c|
+    |Hydrogen, Helium|98%|DO NOT Condense at 0 pressure|
+
+    - Hence, terrestrial planets are composed of rocks and metals and have high density; jovian planets are composed mostly of hydrogen and helium and have low density.
+    - Small solid particles collided, occasionally sticking to one another forming larger grains (**Accretion process)
+    - Larger bodies (**Planetesimals) ranging in size from 1 km to 100 km were formed through accretion process (analogy: a rolling snowball)
+    - Planetesimals swept most of the dust and small particles
+    - Once the larger planetesimals grew to the point that their gravity was significant they grew ralidly into **Protoplanets**.
+    - The powerful solar wind from the young sun(T-Tauri Phase) cleared out dust and gas still dispersed between the planets.
+    - The entire process of formation of the solar system may have lasted a few hundred million years and was completed 4.6 billion years ago.
+
