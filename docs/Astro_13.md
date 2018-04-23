@@ -199,3 +199,103 @@
     - Mars has an enourmous dead volcano (Olympus Mons)
     - Small bodies (moon, mercury, mars) cooled quickly and might have a small molten core.
     - Venus has more volcanoes than any other planer- over 1600 major volcanoes
+
+## Planetary Atmospheres
+- Source:
+    1. The original gas in the cold cloud of interstellar material (74% H, 24% He) **Primary Atmosphere**
+    2. Volcanic gases:
+        - Carbon Dioxide
+        - Sulfur Dioxide
+        - Water vapor
+        - Nitrogen
+- Only the Jovian planets still have the primary atmosphere
+    - The high clouds on jupiter are composed of ammonia crystals
+- Terrestrial planets have lost the primary atmosphere
+    - A planet can lose its atmosphere if 
+        1. it has a hot surface
+        2. it is small so that the escape velocity from it is low
+            - The molecules of the atmosphere move in a choatic way with some average speed V which is related to the temperature T by T=1/3 m*V<sup>2</sup> where m is the mass of a molecule
+            - The escape velocity V<sub>esc</sub> from a planet is determined by its mass M and radius R: 
+                - V<sub>esc</sub><sup>2</sup> = 2*G*M/R 
+                    - G: Gravitational Constant
+            - High T implies high V, in particular if m is small (e.g. hydrogen and helium) and small M implies a small V<sub>esc</sub> if V>V<sub>esc</sub>
+- which factors determine the surface temperature T?
+    1. The distance from the Sun.
+    2. How much of the received solar energy is reflected back (**reflectivity** or **albedo**)
+        - albedo/reflectivity = percentage of incoming light that is reflected back
+        - pure rocky surface: low albedo (the surface obsorbs most of the solar energy)
+        - some clouds: high albedo
+        
+        |Planet|Albedo|
+        |:----:|:----:|
+        |Mercury|11%|
+        |Venus|72%|
+        |Earth|36%|
+        |(Moon)|(7%)|
+        |Mars|25%|
+        |Jupiter|34%|
+        |Saturn|34%|
+        |Uranus|34%|
+        |Neptune|29%|
+    
+    - Mercury
+        - High surface temperature
+            - close to the sun
+            - low reflectivity
+            - small planet => low gravity/ escape velocity
+            - Mercury's atmosphere is extremely thins (the pressure is less than 10<sup>-12</sup>)
+    - Venus
+        - Venus has a substantial atmosphere
+        - Composition: CO<sub>2</sub>(96%), N<sub>2</sub>(3.5%) small amounts of SO<sub>2</sub>, H<sub>2</sub>O, Sulfuric Acid, Hydrochloric acid
+        - Surface temperature =  462<sup>o</sup>C
+        - Surface pressure: 92 atm
+        - Clouds: droplets of sulfuric acid
+        - Why is venus so hot?
+            - It is caused by a runwaway **Greenhouse Effect**
+            - The Molecules of H<sub>2</sub>O, CH<sub>4</sub>, and CO<sub>2</sub> (the greenhouse gases)trap the infrared radiation and the atmosphere heats up.
+        - Why is the atmosphere of earth so different from the atmosphere of venus?
+            - our distance from the sun is just right so that our H<sub>2</sub>O is mainly liquid waterm (the temperature is between 0<sup>o</sup>c and 100<sup>o</sup>c)
+            - liquid water absorbs CO<sub>2</sub> from the atmosphere producing carbonic acid
+            - Carbonic acid + rock ==> limestone
+            - As a result, mainly Nitrogen (N<sub>2</sub>) was left.
+            - Oxygen was formed by uv radiation hitting 2H<sub>2</sub>O splitting it into O<sub>2</sub> and 2H<sub>2</sub> which escaped
+            - Up until 2-2.5 billion years ago this was the only source of oxygen in the earth's atmosphere.
+            - By that time the **Cyanobacteria (blue-green algae) evolved. they consoume CO<sub>2</sub> and H<sub>2</sub>O and through the process of photosynthesis produce carbohydrate molecules (e.g sugars) and release O<sub>2</sub>. As a result the oxygen conent in Earth's atmosphere increased more rapidly.
+            - Percent Composition:
+                - N<sub>2</sub>: 78%
+                - O<sub>2</sub>: 21%
+                - H<sub>2</sub>O Ar CO<sub>2</sub>: less than 1%
+                - N<sub>2</sub> and O<subsup>2</sub> are not greenhouse gases
+    - Mars:
+        - Mars has a very thin atmosphere
+            - Pressure: 0.005 atm
+            - Temperature: -140<sup>o</sup>c +- 20<sup>o</sup>c
+            - Percent Composition:
+                - CO<sub>2</sub>: 95%
+                - N<sub>2</sub>: 2.7%
+                - Ar: 1.6%
+                - CO: 0.6%
+                - O<sub>2</sub>: 0.15%
+                - H<sub>2</sub>O: 0.03%
+            - Mars has no magnetic field to shield it from the solar wind which eroded its atmosphere
+    - The Jovian planets are large enough and far enough from the sun (beyond the frostline) that they were able to retain the primary atmosphere (hydrogen and helium)
+    - Jupiter's atmosphere: 
+        - H<sub>2</sub>: 90%
+        - He: 10%
+        - Ne: < 1%
+        - NH<sub>3</sub>
+        - Ar
+        - Methane
+    
+    - Saturn's Atmosphere:
+        - H<sub>2</sub>: 88%
+        - He: 11%
+        - Ne: 1%
+        - Ammonia
+        - Methane
+    - Uranus' Atmosphere
+        - H<sub>2</sub>: 76%
+        - He: 23%
+        - Methane (gives a blue color)
+    - Neptune: 
+        - Mostly H<sub>2</sub> and the rest is He with some methane (blue color)
