@@ -75,15 +75,13 @@
 6. Nearly all large satellites have counter-clockwise spin
     - Except two satellites of mars (Phobos and Deimos); they are most likely captured asteroids
     - All satellites of uranus
-
-- From 3-6 on can infer that there is a definite counter-clockwise twist in the solar system
-
 7. Third Kepler's Law:
     - a<sup>3</sup>/p<sup>2</sup>=1
         - a = Average distance from the sun in AU
         - p = orbital period in year
     - The Law implies that the greater the distance from the sun(a), the longer is the orbital period(p)
 
+- From 3-6 on can infer that there is a definite counter-clockwise twist in the solar system
 ## Some physical properties of planets:
 - Diameter D
     - can be determined from agular size (A) and distance d
