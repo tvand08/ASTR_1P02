@@ -28,7 +28,6 @@
         - Pluto fails criterion 3
     3. Satellites and rings
         - Shown in table above
-
     4. Asteroids
         - Appolo Asteroids
         - Trojan Asteroids
@@ -63,3 +62,45 @@
     - **Icarus** is an Apollo asteroid while **Halley** is a comet
 2. The orbits of all planets are nearly in the plane of the ecliptic (the orbital plane of the earth)
     - the inclination angles of all planetary orbits are less than 10<sup>o</sup>
+    - The solar system is **Flat**
+3. All planets orbit the sun counter-clockwise (prograde motion) as one would observe from above the earth's north pole
+    - The sun also spins counter-clockwise
+4. Nearly all large satellites orbit their planets counter-clockwise
+5. Nearly all planets spin counter-clockwise
+    - Venus and Uranus excepted
+    - The Obliquity of a planet is the axis tilt angle
+        - Earth = 23<sup>o</sup>
+        - Uranus = 90<sup>o</sup>
+        - Venus = 177<sup>o</sup>
+6. Nearly all large satellites have counter-clockwise spin
+    - Except two satellites of mars (Phobos and Deimos); they are most likely captured asteroids
+    - All satellites of uranus
+
+- From 3-6 on can infer that there is a definite counter-clockwise twist in the solar system
+
+7. Third Kepler's Law:
+    - a<sup>3</sup>/p<sup>2</sup>=1
+        - a = Average distance from the sun in AU
+        - p = orbital period in year
+    - The Law implies that the greater the distance from the sun(a), the longer is the orbital period(p)
+
+## Some physical properties of planets:
+- Diameter D
+    - can be determined from agular size (A) and distance d
+    - time of star occulation
+- Mass M
+    - From orbital data for one of its satellites using the third kepler's law as formulated by newton
+- Density 
+    - `Mass/Volume`
+        - Volume from Diameter D
+|Planet|Mass (in units of Earth Mass)| Density (in g/cm<sup>3</sup>|
+|---------|:------------:|:--:|
+|Mercury|0.055|5.43|
+|Venus|0.815|5.24|
+|Earth|1(6*10<sup>24</sup>kg|5.52|
+||||
+||||
+||||
+||||
+||||
+||||
