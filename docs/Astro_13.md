@@ -299,3 +299,51 @@
         - Methane (gives a blue color)
     - Neptune: 
         - Mostly H<sub>2</sub> and the rest is He with some methane (blue color)
+        
+## Tidal forces, Satellites and Rings  
+- The real objects are not absolutely rigind and the deform if the applied force is sufficently strong
+- Tidal forces are lethal on the event horizon
+- F<sub>gravity</sub> proportional to 1/distance<sup>2</sup>
+- Gravitational pull on the legs is greater than the gravitational pull on the head and there is a net stretching force, so called **Tidal Force**
+- Tidal force on the earth exerted by the moon = F<sub>N</sub>-F<sub>F</sub> proportional to the M<sub>moon</sub>
+- Hence a more massive body exerts a bigger tidal force- the moon is stretched more by the earth than the other way around
+- Consequences:
+    1. Tides on earth
+        - Near side: water is pulled away from the earth toward the moon
+        - far side: Earth is pulled away from water toward the moon
+        - Net result: two tidal bulges
+        - The bulges follow the moon which revolves around the earth once a month. The earth spins once a day. Hence there are about two high tides and two low tides at each point on earth during a 24 hour period. THe moon moves by about 360<sup>o</sup>/30 days= 12<sup>0</sup>/day and the interval between successive high tides is not 12 hours but 12 hours and 25 minutes
+    2. Slowing down of earth's rotation and recession of the moon
+        - Because the earth is rotating, the earth's tidal bulge is a few degrees off from lining up with the moon.
+        - The land masses exert force on water as the earth rotates causing the water bulge to overshoot
+        - The moon in turn tries to align the bulge pulling it back. This is transfered to the lnad masses, causing a slow decrease in the earth's rotation rate, i.e. the longer days. The day increases by about 0.002 seconds per century.
+        - The bulge, in turn, exerts a force on the moon tha has a component along moon's orbit, it increases the moon's orbital speed causing it to go into a higher orbit. The moon is drifting away at a rate of 3.8 cm per year
+        - when the earth- moon system formed 4.5 billion years ago the moon was a lot closer (22,500 km) than it is now (384400 km). also the day on earth was a lot shorter ( 5 hours) than now (24 hours)
+    3. Moons synchronous rotation
+        - The moon is in synchronous rotation
+        - This means that the time it takes to orbit the earth is the same as the time it takes to rotate once 
+        - i.e. the same side of the moon faces the earth
+    4. Volcanism on Io
+        - Io's orbit is elliptical and the tidal stretching varies in a periodic way- it is largest at periapsis and smallest at apoapsis. This perpetual flexing leads to the heating of Io's interior- tidal heating
+- Planetary rings
+    - Jupiter:
+        - Ring discovered in 1979 by voyager 1.
+        - it consists of very fine dust particles
+    - Saturn 
+        - has spectacular rings first observed by galileo
+        - The rings consist of chunks of ice or rocks covered with ice; they have a very high albedo
+        - The chunks range in size from a ping pon ball to a house
+        - They  stretch 274,00km from tip to tip but they are less than 100 meters thick;
+        - the rings are divided by gaps; the bigges is called **Cassini division**. This division is causes by saturn's satellite mimas:
+        - The resonant gravitational pull takes the object out of the gap
+    - Uranus
+        - The ring discovered in 1977 by occultation; since then 9 very thin rings were discovered by voyager 2. they are made of dark material with very low albedo
+    - Neptune:
+        - First discovered in 1984 and in 1989 voyager 2 found thin nonuniform rings
+    - Why do rings form and not another satellite
+        - The tidal force increases as the distance between the satellite and the planet decreases because the force of gravity varies as 1/distance<sup>2</sup>
+    - Roche Limit:
+        - The critical distance inside which the tidal force on a satellite is sufficient to disrupt it
+        - the difference in speeds causes the brocken up material form a ring
+        - for a satellite held together by its own gravity the roche limit is approximately **2.4 times the radius of the bplanet**
+        
